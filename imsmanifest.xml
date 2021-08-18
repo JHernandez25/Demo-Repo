@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<manifest identifier="USAMA_0504a" version="1.0"
+          xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+          xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3"
+          xmlns:adlseq = "http://www.adlnet.org/xsd/adlseq_v1p3"
+          xmlns:adlnav = "http://www.adlnet.org/xsd/adlnav_v1p3"
+          xmlns:imsss = "http://www.imsglobal.org/xsd/imsss"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                              http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+                              http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+                              http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd
+                              http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>2004 3rd Edition</schemaversion>
+  </metadata>
+  <organizations default="M100486-0504a">
+    <organization identifier="M100486-0504a" adlseq:objectivesGlobalToSystem="false" structure="hierarchial">
+      <title>xxxUpdateThisxxx</title>
+      <item identifier="S001" identifierref="R_S001" isvisible="true">
+        <title>xxxUpdateThisxxx</title>
+      </item>
+      <metadata>
+        <adlcp:location>metadata/M100486-0504a.xml</adlcp:location>
+      </metadata>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="R_S001" type="webcontent" adlcp:scormType="sco" href="sco/index.html">
+      <metadata>
+        <adlcp:location>metadata/S001.xml</adlcp:location>
+      </metadata>
+      <file href="sco/index.html"/>
+	  <file href="sco/error.html"/>
+	  <file href="sco/static/css/base.css"/>
+	  <file href="sco/static/css/colors.css"/>
+	  <file href="sco/static/css/svg-icons.css"/>
+	  <file href="sco/static/images/colab-files-after.png"/>
+	  <file href="sco/static/images/colab-files-before.png"/>    
+	  <file href="sco/static/images/intro_bg.jpg"/>
+	  <file href="sco/static/images/M400_Landing.jpg"/>
+	  <file href="sco/static/images/scc1-demo1-after.png"/>
+	  <file href="sco/static/images/scc1-demo1-before.png"/>
+	  <file href="sco/static/images/scc1-demo1-log.png"/>
+	  <file href="sco/static/images/scc1-demo2-after.png"/>
+	  <file href="sco/static/images/scc1-demo2-before.png"/>
+	  <file href="sco/static/images/scc1-log.png"/>
+	  <file href="sco/static/images/scc1-run.png"/>
+	  <file href="sco/static/images/ws-colors.jpg"/>
+	  <file href="sco/static/images/ws-folders.png"/>
+	  <file href="sco/static/images/ws-fpo-img.jpg"/>                
+	  <file href="sco/static/images/swipe.svg"/>
+	  <file href="sco/static/js/logic.js"/>
+	  <file href="sco/static/js/svg-icons.js"/>
+	  <file href="sco/static/js/webslides.js"/>
+	  <file href="sco/static/js/webslides.min.js"/>
+	  <file href="sco/static/video/ways_boss_kills_motivation.mp4"/>
+    </resource>
+  </resources>
+</manifest>

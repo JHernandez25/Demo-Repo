@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<lom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://ltsc.ieee.org/xsd/LOM"
+     xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM lomStrict.xsd">
+
+  <general>
+    <identifier>
+      <catalog>ATIA</catalog>
+      <entry>TBD</entry>
+    </identifier>
+    <title>
+      <string language="en">MLC ML420DL Test</string>
+    </title>
+    <language>en</language>
+    <description>
+      <string language="en">This is a test.</string>
+    </description>
+    <keyword>
+      <string language="en">leadership</string>
+    </keyword>
+
+    <keyword>
+      <string language="en">unified land ops</string>
+    </keyword>
+
+    <keyword>
+      <string language="en">sergeant major</string>
+    </keyword>
+
+    <keyword>
+      <string language="en">education</string>
+    </keyword>
+
+    <keyword>
+      <string language="en">joint interagency</string>
+    </keyword>
+
+    <keyword>
+      <string language="en">techniques</string>
+    </keyword>
+
+    <keyword>
+      <string language="en">academy</string>
+    </keyword>
+
+    <keyword>
+      <string language="en">DLRM</string>
+    </keyword>
+
+    <keyword>
+      <string language="en">DJIIM</string>
+    </keyword>
+
+    <keyword>
+      <string language="en">History</string>
+    </keyword>
+
+    <aggregationLevel>
+      <source>LOMv1.0</source>
+      <value>3</value>
+    </aggregationLevel>
+  </general>
+
+  <lifeCycle>
+    <version>
+      <string language="en">1.0</string>
+    </version>
+    <status>
+      <source>LOMv1.0</source>
+      <value>final</value>
+    </status>
+    <contribute>
+      <role>
+        <source>LOMv1.0</source>
+        <value>publisher</value>
+      </role>
+      <entity>BEGIN:VCARD
+    VERSION:2.1
+    FN: U.S. Army Sergeants Major Academy (USASMA) Non-Resident Course
+    ORG: U.S. Army Sergeants Major Academy (USASMA)
+    NOTE: none
+    ADR:DOM; 11291 SGT E Churchill St., Ft. Bliss, TX 79918
+    END:VCARD</entity>
+      <date>
+        <dateTime>2013-10-08</dateTime>
+      </date>
+    </contribute>
+  </lifeCycle>
+
+  <metaMetadata>
+    <identifier>
+      <catalog>TBD</catalog>
+      <entry>TBD</entry>
+    </identifier>
+    <metadataSchema>LOMv1.0</metadataSchema>
+    <metadataSchema>SCORM_CAM_v1.3</metadataSchema>
+    <metadataSchema>ADLv1.0</metadataSchema>
+    <language>en</language>
+  </metaMetadata>
+
+  <technical>
+    <format>undefined</format>
+  </technical>
+
+  <rights>
+    <cost>
+      <source>LOMv1.0</source>
+      <value>no</value>
+    </cost>
+    <copyrightAndOtherRestrictions>
+      <source>LOMv1.0</source>
+      <value>no</value>
+    </copyrightAndOtherRestrictions>
+  </rights>
+
+
+  <classification>
+    <purpose>
+      <source>LOMv1.0</source>
+      <value>discipline</value>
+    </purpose>
+    <description>
+      <string language="en">N/A</string>
+    </description>
+    <keyword>
+      <string language="en">MOS</string>
+    </keyword>
+    <keyword>
+      <string language="en">Skill</string>
+    </keyword>
+  </classification>
+  <classification>
+    <purpose>
+      <source>LOMv1.0</source>
+      <value>discipline</value>
+    </purpose>
+    <description>
+      <string language="en">N/A</string>
+    </description>
+    <keyword>
+      <string language="en">SQI</string>
+    </keyword>
+  </classification>
+  <classification>
+    <purpose>
+      <source>LOMv1.0</source>
+      <value>discipline</value>
+    </purpose>
+    <description>
+      <string language="en">N/A</string>
+    </description>
+    <keyword>
+      <string language="en">ASI</string>
+    </keyword>
+  </classification>
+  <classification>
+    <purpose>
+      <source>LOMv1.0</source>
+      <value>accessibility restrictions</value>
+    </purpose>
+    <description>
+      <string language="en">Not 508 Compliant</string>
+    </description>
+    <keyword>
+      <string language="en">Not 508</string>
+    </keyword>
+  </classification>
+  <classification>
+    <purpose>
+      <source>LOMv1.0</source>
+      <value>security level</value>
+    </purpose>
+    <description>
+      <string language="en">Public Domain</string>
+    </description>
+    <keyword>
+      <string language="en">Public Domain</string>
+    </keyword>
+  </classification>
+  <classification>
+    <purpose>
+      <source>LOMv1.0</source>
+      <value>educational objective</value>
+    </purpose>
+    <description>
+      <string language="en">The SMC prepares Master Sergeants and Sergeants Major to elevate from a tactical level of thinking to an operational and strategic perspective, thus preparing them for leadership positions in organizations executing unified land operations.</string>
+    </description>
+    <keyword>
+      <string language="en">leadership</string>
+    </keyword>
+    <keyword>
+      <string language="en">unified land ops</string>
+    </keyword>
+    <keyword>
+      <string language="en">sergeant major</string>
+    </keyword>
+    <keyword>
+      <string language="en">education</string>
+    </keyword>
+    <keyword>
+      <string language="en">joint interagency</string>
+    </keyword>
+    <keyword>
+      <string language="en">techniques</string>
+    </keyword>
+    <keyword>
+      <string language="en">academy</string>
+    </keyword>
+    <keyword>
+      <string language="en">DLRM</string>
+    </keyword>
+    <keyword>
+      <string language="en">DJIIM</string>
+    </keyword>
+    <keyword>
+      <string language="en">History</string>
+    </keyword>
+  </classification>
+</lom>
